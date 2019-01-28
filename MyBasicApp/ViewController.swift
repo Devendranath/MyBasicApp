@@ -53,6 +53,7 @@ class ViewController: UIViewController {
         } else {
             print(userName)
             print(pwdTF)
+            print("Implemented alert for proper login details!")
         }
     }
 }
